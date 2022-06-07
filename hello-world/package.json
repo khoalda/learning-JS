@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "how-many-pizza": "^1.1.2"
+  },
+  "devDependencies": {
+    "prettier": "2.6.2"
+  }
+}
